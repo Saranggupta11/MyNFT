@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+pragma solidity >=0.5.0 <0.9.0;
 
 // Import this file to use console.log
 import "hardhat/console.sol";
